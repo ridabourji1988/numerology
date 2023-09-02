@@ -275,7 +275,7 @@ import streamlit as st
 
 
 def main():
-    st.title("🔮 Calculateur de Chemin de Vie et Numéro du Nom")
+    st.title("🔮 Abrakadabra ! Dévoile le chemin de ta vie !")
     st.write("Choisissez les options de calcul :")
 
     calculate_life_path = st.checkbox("Calculer le Chemin de Vie", key="calculate_life_path")
